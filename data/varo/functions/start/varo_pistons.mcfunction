@@ -1,0 +1,9 @@
+#set redstone blocks under pistons 
+setblock 283 64 104 minecraft:redstone_block
+setblock 265 64 104 minecraft:redstone_block
+setblock 265 64 55 minecraft:redstone_block
+setblock 283 64 55 minecraft:redstone_block
+setblock 250 64 89 minecraft:redstone_block
+setblock 250 64 70 minecraft:redstone_block 
+setblock 298 64 70 minecraft:redstone_block
+setblock 298 64 89 minecraft:redstone_block
