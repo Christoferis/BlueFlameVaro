@@ -1,6 +1,6 @@
 #start message
 #deathcontraptor set spawns to commandblock
-spawnpoint @a 279 2 79 
+spawnpoint @a 279 3 79
 
 
 tellraw @a {"text": "Das Event wurde gestartet", "color": "white", "bold": true}
@@ -15,5 +15,5 @@ schedule function varo:start/varo_pistons 8s
 #start border thingy
 schedule function varo:border/varo_b 3600s
 
-
+ 
 
