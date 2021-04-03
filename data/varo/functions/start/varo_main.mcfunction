@@ -13,7 +13,9 @@ function varo:countdown/varo_cd
 schedule function varo:start/varo_pistons 8s
 
 #start border thingy
-schedule function varo:border/varo_b 3600s
+schedule function varo:border/varo_b_border400 3600s
+schedule function varo:border/varo_b_border250 5400s
+schedule function varo:border/varo_b_border100 6300s
 
  
 
